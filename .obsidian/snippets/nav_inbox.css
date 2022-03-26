@@ -1,0 +1,141 @@
+:root {
+  --dark0-hard: #1d2021;
+  --dark0: #282828;
+  --dark0-soft: #32302f;
+  --dark1: #3c3836;
+  --dark2: #504945;
+  --dark3: #665c54;
+  --dark4: #7c6f64;
+
+  --gray: #928374;
+
+  --light0-hard: #f9f5d7;
+  --light0: #fbf1c7;
+  --light0-soft: #f2e5bc;
+  --light1: #ebdbb2;
+  --light2: #d5c4a1;
+  --light3: #bdae93;
+  --light4: #a89984;
+
+  --bright-red: #fb4934;
+  --bright-green: #b8bb26;
+  --bright-yellow: #fabd2f;
+  --bright-blue: #83a598;
+  --bright-purple: #d3869b;
+  --bright-aqua: #8ec07c;
+  --bright-orange: #fe8019;
+
+  --neutral-red: #cc241d;
+  --neutral-green: #98971a;
+  --neutral-yellow: #d79921;
+  --neutral-blue: #458588;
+  --neutral-purple: #b16286;
+  --neutral-aqua: #689d6a;
+  --neutral-orange: #d65d0e;
+
+  --faded-red: #9d0006;
+  --faded-green: #79740e;
+  --faded-yellow: #b57614;
+  --faded-blue: #076678;
+  --faded-purple: #8f3f71;
+  --faded-aqua: #427b58;
+  --faded-orange: #af3a03;
+
+  /* These are for: */
+  /** outliner bullet lines fade to color in edit mode -- https://discord.com/channels/686053708261228577/702656734631821413/884586663064535141 */
+  --rgb-faded-red: 157, 0, 6;
+  --rgb-faded-green: 121, 116, 14;
+  --rgb-faded-yellow: 181, 118, 20;
+  --rgb-faded-blue: 7, 102, 120;
+  --rgb-faded-purple: 143, 63, 113;
+  --rgb-faded-aqua: 66, 123, 88;
+  --rgb-faded-orange: 175, 58, 3;
+  --alpha-ad: 0.68;
+  --alpha-65: 0.4;
+}
+/* .oz-folder-element[data-path="01-inbox"]::before { */
+/*   content: "📥️ "; */
+/* } */
+/*  */
+.oz-folder-element[data-path="01-inbox"] {
+  font-size: 1.3em;
+  background-color: rgba(66, 123, 88, 0.3);
+  /* border: 3px solid var(--faded-aqua); */
+  /* color: var(--background-primary); */
+  color: #0fffff;
+
+}
+/* .oz-folder-toggle > g > path { */
+/*   fill: var(--neutral-aqua); */
+/* } */
+/* div.oz-folder-contents { */
+/*   border-left: 1px solid var(--faded-aqua); */
+/* } */
+/*  */
+/* .oz-folder-name */
+.nav-folder-title[data-path="000-Inbox"] .nav-folder-title-content::before {
+  content: "📥️ ";
+  font-size: 1.3em;
+}
+
+
+.nav-folder-title[data-path="Bitacora"] .nav-folder-title-content::before {
+    content: "📅 ";
+    font-size: 1.3em;
+    color: var(#000000);
+    }
+
+.nav-folder-title[data-path="DDQ-docs"] .nav-folder-title-content::before {
+  content: "📖 ";
+  font-size: 1.3em;
+}
+
+.nav-folder-title[data-path="000-Inbox"] .nav-folder-title-content {
+  background-color: var(--faded-aqua);
+  color: var(--background-primary);
+}
+
+.nav-folder-title[data-path="Bitacora"] .nav-folder-title-content {
+    background-color: rgba(10, 95, 225, 0.6);
+    /* background-color: #13a5F8; */
+    color: var(#000000);
+    }
+
+.nav-folder-title[data-path="DDQ-docs"] .nav-folder-title-content {
+  background-color: #fe8019;
+  /* rgba(175, 58, 36, 0.6); */
+
+/* var(--neutral-orange); */
+  color: var(--background-primary);
+}
+
+.oz-folder-element[data-path="Bitacora"] {
+  font-size: 1.3em;
+  background-color: rgba(10, 95, 225, 0.3);
+  /* border: 3px solid var(--faded-aqua); */
+  /* color: var(--background-primary); */
+  color: #0fffff;
+}
+
+.oz-folder-element[data-path="DDQ-docs"] {
+  font-size: 1.3em;
+  background-color: rgba(175, 58, 36, 0.3);
+  /* border: 3px solid var(--neutral-orange); */
+  /* color: var(--background-primary); */
+  color: #0fffff;
+}
+
+.nav-folder-title[data-path="statistics"] .nav-folder-title-content::before {
+    content: "📉 ";
+    font-size: 1.3em;
+    color: var(#000a00);
+    }
+
+.nav-folder-title[data-path="statistics"] .nav-folder-title-content {
+  background-color: var(--faded-green);
+  color: var(--background-primary);
+}
+
+
+
+

@@ -1,0 +1,30 @@
+{
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Spearman"
+  ],
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "useTab": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": false,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "spellcheckLanguages": null,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 50
+  },
+  "fileSortOrder": "byModifiedTime",
+  "vimMode": false
+}

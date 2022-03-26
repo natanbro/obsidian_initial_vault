@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 14,
+  "theme": "moonstone",
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "hide_meta",
+    "nav_inbox"
+  ]
+}

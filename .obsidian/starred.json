@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Using Using Pre-Release Test Failures to Build Early Post-Release Defect Prediction Models",
+      "path": "DDQ-docs/Using Pre-Release Test Failures to Build Early Post-Release Defect Prediction Models.md"
+    },
+    {
+      "type": "file",
+      "title": "Effects of meassurements on correlation software metrics",
+      "path": "DDQ-docs/Effects of measurements on correlation software metrics.md"
+    },
+    {
+      "type": "file",
+      "title": "moc-statquest",
+      "path": "statistics/statquest.md"
+    },
+    {
+      "type": "file",
+      "title": "000-Dashboard",
+      "path": "000-Dashboard.md"
+    }
+  ]
+}

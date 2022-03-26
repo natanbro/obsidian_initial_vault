@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "b7983e10165094c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e29fbc504707ae14",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "9e1f8a128c601041",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a7e49ed4619986d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b05fcc44be065b1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee273b5b0d955d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "99c3486188fc8dfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:(C language)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10d636f8e8f45a44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "208061dc78ca0f98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a56f32c1f127175d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc5a2b975bd4fbe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "922f035b9b67c0d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "af74d3a726d2603d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba53b3c6f6a7dae4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c70188244f16e293",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e623175c20be7aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8c7e62c94ac5626",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9862222b04a8982",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326,
+    "collapsed": true
+  },
+  "active": "e29fbc504707ae14",
+  "lastOpenFiles": [
+    "Bitacora/2022-03-24.md",
+    "Bitacora/2022-03-20.md",
+    "statistics/Boxplots.md",
+    "Bitacora/2022-03-21.md",
+    "Bitacora/2022-03-17.md",
+    "Bitacora/2022-01-27.md",
+    "DDQ-docs/The Influence of Organizational Structure on Software Quality.md",
+    "DDQ-docs/Effects of measurements on correlation software metrics.md",
+    "DDQ-docs/Cyclomatic Complexity and Lines of Code Empirical Evidence of a Stable Linear Relationship.md",
+    "DDQ-docs/A metrics framework for a WS-CDL process under evolution.md"
+  ]
+}
