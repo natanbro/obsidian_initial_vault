@@ -6,16 +6,6 @@
       {
         "id": "e29fbc504707ae14",
         "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "9e1f8a128c601041",
-        "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "empty",
           "state": {}
@@ -83,14 +73,15 @@
             }
           },
           {
-            "id": "cc5a2b975bd4fbe7",
+            "id": "1e604b02786e6104",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
